@@ -1,0 +1,16 @@
+bin/
+target/
+build/
+project/target/
+project/config-classes/
+project/.bloop/
+# vs code
+.bloop/
+.metals/ 
+.vscode/
+.bsp/
+#general
+*.class
+*.cache
+*.log
+metals.sbt
